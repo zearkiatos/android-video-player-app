@@ -1,6 +1,6 @@
 package com.android.android_video_player_app
 
-import android.R
+import android.R.*
 import android.net.Uri
 import android.net.Uri.*
 import android.widget.MediaController
