@@ -1,7 +1,10 @@
 package com.android.android_video_player_app
 
+import android.R
 import android.net.Uri
-import android.net.Uri.parse
+import android.net.Uri.*
+import android.widget.MediaController
+import android.widget.VideoView
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import android.view.Menu
